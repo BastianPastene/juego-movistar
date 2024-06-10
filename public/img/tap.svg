@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="33.08" viewBox="0 0 172 33.08">
+  <g id="Grupo_132977" data-name="Grupo 132977" transform="translate(-94 -615.934)">
+    <path id="Trazado_19448" data-name="Trazado 19448" d="M30.283,24.456l-.612-2.132a2.45,2.45,0,1,0-4.71,1.35l-.675-2.355a2.451,2.451,0,1,0-4.712,1.35l.224.786L17.1,14.03a2.451,2.451,0,0,0-4.712,1.35l4.726,16.49-4.234-5.579A2.455,2.455,0,0,0,9,29.3L20.144,43.814a1.362,1.362,0,0,0,1.378.387L34.17,40.577a2.2,2.2,0,0,0,1.593-2.072l.168-8.48a22.65,22.65,0,0,0-.874-6.7l-.183-.642a2.451,2.451,0,1,0-4.712,1.351Z" transform="translate(158.016 604.246)" fill="#ebf7ff" stroke="#019df4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Grupo_132975" data-name="Grupo 132975" transform="translate(-54 -4)">
+      <g id="Rectángulo_54046" data-name="Rectángulo 54046" transform="translate(148 624)" fill="#ebf7ff" stroke="#019df4" stroke-width="1">
+        <rect width="64" height="24" rx="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="63" height="23" rx="11.5" fill="none"/>
+      </g>
+      <text id="Tocar" transform="translate(164 641)" fill="#019df4" font-size="14" font-family="Telefonica-Regular, Telefonica" letter-spacing="0.025em"><tspan x="0" y="0">Tocar</tspan></text>
+    </g>
+    <g id="Grupo_132976" data-name="Grupo 132976" transform="translate(54 -4)">
+      <g id="Rectángulo_54046-2" data-name="Rectángulo 54046" transform="translate(148 624)" fill="#ebf7ff" stroke="#019df4" stroke-width="1">
+        <rect width="64" height="24" rx="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="63" height="23" rx="11.5" fill="none"/>
+      </g>
+      <text id="Tocar-2" data-name="Tocar" transform="translate(164 641)" fill="#019df4" font-size="14" font-family="Telefonica-Regular, Telefonica" letter-spacing="0.025em"><tspan x="0" y="0">Tocar</tspan></text>
+    </g>
+  </g>
+</svg>
